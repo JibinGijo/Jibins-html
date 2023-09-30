@@ -1,0 +1,33 @@
+/* styles.css */
+
+/* Style the header */
+header {
+    text-align: center;
+    background-color: #000000;
+    color: white;
+    padding: 20px;
+}
+
+/* Style sections */
+section {
+    margin: 20px;
+}
+
+/* Style project divs */
+.project {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.project img{
+    width: 350px;
+    height: 350px;
+}
+
+/* Style the footer */
+footer {
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 10px;
+}
